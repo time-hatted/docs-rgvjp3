@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-mm1ymp.hartawin-pro.online/sitemap.xml
